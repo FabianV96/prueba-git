@@ -18,7 +18,13 @@ Working directory -----> Staging area -----> Repository
 COMANDOS RANDOM 
 
 - ls  -----> comando para listar directorios y archivos
-
+- git commit -----> para crear un primer punto de control de nuestro codigo
+- git log -----> para ver todos los commits que hemos creado
+- git checkout -----> para revertir los cambios de los archivos
+- git diff  -----> para ver las diferencias hechas en los archivos
+-  ----->
+-  ----->
+-  ----->
 
 
 
